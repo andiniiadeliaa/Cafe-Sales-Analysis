@@ -57,8 +57,8 @@ Based on the dataset:
 
 ## Project Files
 
-- `cafe_sales_analysis.xlsx` - Excel workbook containing the raw data and analysis
-- `screenshots/raw-data.png` - Screenshot of the raw dataset
+- `Café Sales Analysis Dashboard.xlsx` - Excel workbook containing the raw data and analysis
+- `screenshots/rawdata.png` - Screenshot of the raw dataset
 - `screenshots/analysis.png` - Screenshot of the analysis results
 
 ## Screenshots
