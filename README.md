@@ -65,7 +65,7 @@ Based on the dataset:
 
 ### Raw Data
 
-![Raw Data](screenshots/raw-data.png)
+![Raw Data](screenshots/rawdata.png)
 
 ### Analysis
 
