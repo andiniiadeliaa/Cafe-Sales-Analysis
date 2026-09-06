@@ -1,72 +1,62 @@
-# Café Sales Analysis
+# Cafe Sales Analysis
 
-A simple data analysis project using Microsoft Excel to explore sales performance from a mock café dataset.
+An Excel-based project to analyze café sales data and identify patterns in sales performance, product performance, and customer types.
 
 ## About the Project
 
-This project analyzes a mock café sales dataset covering January to March 2026.
+Café businesses record many transactions every day. However, transaction data alone does not directly show which products perform well, how sales change over time, or which customer types contribute to sales.
 
-The goal of this project is to practice using Excel to organize data, calculate key metrics, and explore sales patterns based on products, months, payment methods, and customer types.
+This project was created to practice analyzing sales data and turning the data into information that can be used to understand business performance.
 
-## Dataset
+## Project Objectives
 
-The dataset contains 30 café transactions with the following information:
+The objectives of this project are:
 
-- Transaction ID
-- Date
-- Product
-- Category
-- Quantity
-- Unit Price
-- Payment Method
-- Customer Type
-- Revenue
-
-The dataset is a mock dataset created for learning and portfolio purposes.
+- Analyze total revenue and sales performance
+- Identify sales trends by month
+- Find products with the highest sales and revenue
+- Compare sales based on customer type
+- Present the analysis in a simple dashboard
 
 ## Analysis
 
-The analysis focuses on:
+The analysis focuses on several areas:
 
-- Total revenue
-- Total transactions
-- Total quantity sold
-- Average transaction value
-- Monthly revenue
-- Product performance
-- Sales by category
-- Payment methods
-- Customer types
+- Monthly Sales
+- Revenue
+- Product Performance
+- Customer Type
+- Sales Trends
 
-## Key Results
+## Impact
 
-Based on the dataset:
+This analysis can help a café owner or manager get a clearer view of their business performance.
 
-- Total revenue: Rp1,228,000
-- Total transactions: 30
-- Total quantity sold: 64 items
-- Average transaction value: Rp40,933
-- Highest monthly revenue: March, with Rp452,000
-- Beverage generated more revenue than Food
-- Regular customers generated more revenue than New customers
-- QRIS was the most frequently used payment method and generated the highest revenue
+For example, the results can be used to:
+
+- Identify products that generate higher revenue
+- See changes in sales over time
+- Understand which customer types contribute more to sales
+- Use sales information as a reference when making business decisions
+
+The project is based on a mock dataset, so the results are intended for analysis practice rather than actual business decisions.
 
 ## Tools
 
 - Microsoft Excel
+- PivotTable
+- Charts
+- Data Analysis
 
 ## Project Files
 
-- `Café Sales Analysis Dashboard.xlsx` - Excel workbook containing the raw data and analysis
-- `screenshots/rawdata.png` - Screenshot of the raw dataset
-- `screenshots/analysis.png` - Screenshot of the analysis results
+- `cafe_sales_analysis.xlsx`
+- `screenshots/`
 
 ## Screenshots
 
-### Raw Data
-
-![Raw Data](screenshots/rawdata.png)
+### Dashboard
+![Café Sales Analysis Dashboard](screenshots/dashboard.png)
 
 ### Analysis
-
-![Analysis](screenshots/analysis.png)
+![Café Sales Analysis](screenshots/analysis.png)
