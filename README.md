@@ -1,10 +1,10 @@
 # Cafe Sales Analysis
 
-An Excel-based project to analyze café sales data and identify patterns in sales performance, product performance, and customer types.
+An Excel-based project to analyze cafe sales data and identify patterns in sales performance, product performance, and customer types.
 
 ## About the Project
 
-Café businesses record many transactions every day. However, transaction data alone does not directly show which products perform well, how sales change over time, or which customer types contribute to sales.
+Cafe businesses record many transactions every day. However, transaction data alone does not directly show which products perform well, how sales change over time, or which customer types contribute to sales.
 
 This project was created to practice analyzing sales data and turning the data into information that can be used to understand business performance.
 
@@ -30,7 +30,7 @@ The analysis focuses on several areas:
 
 ## Impact
 
-This analysis can help a café owner or manager get a clearer view of their business performance.
+This analysis can help a cafe owner or manager get a clearer view of their business performance.
 
 For example, the results can be used to:
 
@@ -50,7 +50,7 @@ The project is based on a mock dataset, so the results are intended for analysis
 
 ## Project Files
 
-- `cafe_sales_analysis.xlsx`
+- `Cafe Sales Analysis Dashboard.xlsx`
 - `screenshots/`
 
 ## Screenshots
