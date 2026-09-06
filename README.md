@@ -56,7 +56,7 @@ The project is based on a mock dataset, so the results are intended for analysis
 ## Screenshots
 
 ### Dashboard
-![Café Sales Analysis Dashboard](screenshots/dashboard.png)
+![Café Sales Analysis Dashboard](screenshots/rawdata.png)
 
 ### Analysis
 ![Café Sales Analysis](screenshots/analysis.png)
